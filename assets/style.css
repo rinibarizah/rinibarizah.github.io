@@ -1,0 +1,14 @@
+body {
+  padding-top: 156px; /* Adjust this value based on the height of your menubar */
+}
+.fixed-top-scroll {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+img.cake {
+    width:250px;
+}
+
+
